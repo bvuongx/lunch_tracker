@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  item: MyString
+  calories: 1
+  cost: 1.5
+
+two:
+  item: MyString
+  calories: 1
+  cost: 1.5
